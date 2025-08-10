@@ -1,4 +1,6 @@
 Welcome to the NanoCIPHER Lab!
+We are the Gissinger Lab at Stevens.
+Learn more at nanocipher.org
 
 <!--
 
